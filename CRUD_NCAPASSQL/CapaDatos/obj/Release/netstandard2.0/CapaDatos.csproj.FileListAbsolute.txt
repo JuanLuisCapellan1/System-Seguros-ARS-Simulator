@@ -1,0 +1,9 @@
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaDatos\bin\Release\netstandard2.0\CapaDatos.deps.json
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaDatos\bin\Release\netstandard2.0\CapaDatos.dll
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaDatos\bin\Release\netstandard2.0\CapaDatos.pdb
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaDatos\obj\Release\netstandard2.0\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaDatos\obj\Release\netstandard2.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaDatos\obj\Release\netstandard2.0\CapaDatos.AssemblyInfo.cs
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaDatos\obj\Release\netstandard2.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaDatos\obj\Release\netstandard2.0\CapaDatos.dll
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaDatos\obj\Release\netstandard2.0\CapaDatos.pdb

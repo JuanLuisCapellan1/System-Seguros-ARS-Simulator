@@ -1,0 +1,42 @@
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\bin\Release\Seguros ARS.exe.config
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\bin\Release\Seguros ARS.exe
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\bin\Release\Seguros ARS.pdb
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\bin\Release\CapaNegocio.dll
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\bin\Release\itextsharp.dll
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\bin\Release\System.Data.SqlClient.dll
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\bin\Release\System.Security.AccessControl.dll
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\bin\Release\System.Security.Permissions.dll
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\bin\Release\CapaDatos.dll
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\bin\Release\CapaNegocio.pdb
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\bin\Release\itextsharp.xml
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\bin\Release\System.Data.SqlClient.xml
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\bin\Release\System.Security.AccessControl.xml
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\bin\Release\System.Security.Permissions.xml
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\bin\Release\CapaDatos.pdb
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\obj\Release\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\obj\Release\CapaPresentacion.csproj.ResolveComReference.cache
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\obj\Release\CapaPresentacion.Encuesta.resources
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\obj\Release\CapaPresentacion.Encuesta2.resources
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\obj\Release\CapaPresentacion.Encuesta3.resources
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\obj\Release\CapaPresentacion.Encuesta4.resources
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\obj\Release\CapaPresentacion.Encuesta5.resources
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\obj\Release\CapaPresentacion.Encuesta6.resources
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\obj\Release\CapaPresentacion.Encuesta7.resources
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\obj\Release\CapaPresentacion.Encuesta8.resources
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\obj\Release\CapaPresentacion.form.resources
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\obj\Release\CapaPresentacion.Home.resources
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\obj\Release\CapaPresentacion.Login.resources
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\obj\Release\CapaPresentacion.Properties.Resources.resources
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\obj\Release\CapaPresentacion.Reporte.resources
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\obj\Release\CapaPresentacion.Sign_Up.resources
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\obj\Release\CapaPresentacion.Warnning.resources
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\obj\Release\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\obj\Release\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\obj\Release\CapaPresentacion.csproj.CopyComplete
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\obj\Release\Seguros ARS.exe
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaPresentacion\obj\Release\Seguros ARS.pdb

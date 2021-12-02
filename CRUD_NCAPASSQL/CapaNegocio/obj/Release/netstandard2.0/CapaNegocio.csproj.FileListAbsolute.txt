@@ -1,0 +1,12 @@
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaNegocio\bin\Release\netstandard2.0\CapaNegocio.deps.json
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaNegocio\bin\Release\netstandard2.0\CapaNegocio.dll
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaNegocio\bin\Release\netstandard2.0\CapaNegocio.pdb
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaNegocio\bin\Release\netstandard2.0\CapaDatos.dll
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaNegocio\bin\Release\netstandard2.0\CapaDatos.pdb
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaNegocio\obj\Release\netstandard2.0\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaNegocio\obj\Release\netstandard2.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaNegocio\obj\Release\netstandard2.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaNegocio\obj\Release\netstandard2.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaNegocio\obj\Release\netstandard2.0\CapaNegocio.csproj.CopyComplete
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaNegocio\obj\Release\netstandard2.0\CapaNegocio.dll
+C:\Users\Juan Luis Capellan\Desktop\System\Crud_Con_DataGriwd\CRUD_NCAPASSQL\CapaNegocio\obj\Release\netstandard2.0\CapaNegocio.pdb
